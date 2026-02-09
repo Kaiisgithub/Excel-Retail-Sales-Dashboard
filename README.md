@@ -46,6 +46,9 @@ I built three core analysis modules:
 
 ---
 
+## ⚠️ Note on Data Size
+The full analysis was performed on a dataset with **581,472 rows**. 
+Due to GitHub's file size limits, the uploaded Excel file (`Online_Retail_Portfolio_Version.xlsx`) is a **truncated sample (top 5,000 rows)** to demonstrate the formulas and dashboard structure.
 ##  Dashboard Features
 The final Excel file contains a fully interactive **Management Dashboard**:
 * **Slicers:** Allows users to instantly filter data by **Year** (2010 vs 2011) and **Month**.
